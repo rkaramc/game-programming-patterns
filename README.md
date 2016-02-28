@@ -9,6 +9,10 @@ The book is written in Markdown (in `book/`). A little Python script (`script/fo
     $ pip install pygments
     $ pip install smartypants
 
+Or install all requirements like so:
+
+    $ pip install -r requirements.txt
+
 You may need `sudo` for those. Once that's done, you can run:
 
     $ python script/format.py
